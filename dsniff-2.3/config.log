@@ -1,0 +1,53 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:547: checking for gcc
+configure:660: checking whether the C compiler (/opt/toolchain-rt3883/bin/mipsel-linux-uclibc-gcc  ) works
+configure:676: /opt/toolchain-rt3883/bin/mipsel-linux-uclibc-gcc -o conftest    conftest.c  1>&5
+configure:702: checking whether the C compiler (/opt/toolchain-rt3883/bin/mipsel-linux-uclibc-gcc  ) is a cross-compiler
+configure:707: checking whether we are using GNU C
+configure:735: checking whether /opt/toolchain-rt3883/bin/mipsel-linux-uclibc-gcc accepts -g
+configure:797: checking for a BSD compatible install
+configure:852: checking for ranlib
+configure:881: checking how to run the C preprocessor
+configure:965: checking for X
+configure:1795: checking for ANSI C header files
+configure:1902: checking for err.h
+configure:1902: checking for fcntl.h
+configure:1902: checking for sys/ioctl.h
+configure:1902: checking for sys/queue.h
+configure:1902: checking for unistd.h
+configure:1902: checking for libgen.h
+configure:1902: checking for net/if_tun.h
+configure:1939: checking for MIN and MAX in sys/param.h
+configure:1966: checking for working const
+configure:2041: checking for size_t
+configure:2074: checking whether struct tm is in sys/time.h or time.h
+configure:2108: checking for u_int32_t
+configure:2141: checking for u_int64_t
+configure:2174: checking for in_addr_t
+configure:2210: checking whether /opt/toolchain-rt3883/bin/mipsel-linux-uclibc-gcc needs -traditional
+configure:2256: checking for 8-bit clean memcmp
+configure:2292: checking return type of signal handlers
+configure:2333: checking for strftime
+configure:2431: checking for gethostname
+configure:2431: checking for socket
+configure:2431: checking for strdup
+configure:2431: checking for strstr
+configure:2484: checking for xdr_fhstatus in -lrpcsvc
+configure:2531: checking for socket in -lsocket
+configure:2578: checking for gethostbyname in -lnsl
+configure:2625: checking for dn_expand in -lresolv
+configure:2674: checking for dirname
+configure:2674: checking for strlcpy
+configure:2674: checking for strlcat
+configure:2674: checking for strsep
+configure:2732: checking for MD5Update
+configure:2792: checking for warnx
+configure:2852: checking for ether_ntoa
+configure:2916: checking for Berkeley DB with 1.85 compatibility
+configure:3011: checking for libpcap
+configure:3059: checking for libnet
+configure:3106: checking for libnids
+configure:3148: checking whether libnids version is good
+configure:3169: checking for OpenSSL
